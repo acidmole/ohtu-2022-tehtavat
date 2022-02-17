@@ -5,8 +5,8 @@ def main():
     url = "https://nhlstatisticsforohtu.herokuapp.com/players"
     response = requests.get(url).json()
 
-    print("JSON-muotoinen vastaus:")
-    print(response)
+    #print("JSON-muotoinen vastaus:")
+    #print(response)
 
     players = []
 
@@ -18,10 +18,20 @@ def main():
 
         players.append(player)
 
-    print("Oliot:")
+    print("Suomalaiset:")
 
+    finns = []
     for player in players:
+        if player.nation == 'FIN':
+            finns.append(player)
+
+    finns.sort(key=lambda x: x.points, reverse=True)
+
+    for player in finns:
         print(player)
 
+    #def takeNation(player):
+    #    return player.nation
+    
 if __name__ == "__main__":
     main()
