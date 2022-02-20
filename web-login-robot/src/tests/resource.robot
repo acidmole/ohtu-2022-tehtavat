@@ -13,6 +13,7 @@ ${REGISTER URL}  http://${SERVER}/register
 *** Keywords ***
 Open And Configure Browser
     Open Browser  browser=${BROWSER}
+    options=binary_location="/snap/bin/chromium"
     Maximize Browser Window
     Set Selenium Speed  ${DELAY}
 
