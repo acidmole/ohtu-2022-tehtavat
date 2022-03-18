@@ -1,0 +1,5 @@
+Sanoja: 135
+
+"Start, Stop, Continue, More of, Less of" -ympyrä on Scrumin mukaisen retrospektiivin palautteenantokanava, joka kestää tyypillisesti kymmenestä kahteenkymmeneen viiteen minuuttia. Siinä hahmotellaan ympyrä, jonka jaetaan viiteen lohkoon. Tiimiltä kysytään asioita, kuten mikä aloittamattoman asian tekeminen pitäisi aloittaa (Start), minkä hyödyttömän asian tekeminen pitäisi lopettaa (Stop), mikä toimii ja pitäisi jatkaa (Continue), mitä pitäisi tehdä enemmän (More of) ja mitä pitäisi tehdä vähemmän (Less of). Asioista keskustellaan silence-wait -tekniikalla kommentteja ja retrospektiivi kirjataan ylös.
+
+“Glad, Sad, Mad” on myöskin retrospektiivin palautetapaaminen, jonka tyypillinen kesto on korkeintaan 60 minuuttia. Ensin tiimi kirjoittaa ylös havaintojaan ja kokemuksiaan kuluneesta sprintistä muistilapuille, jotka laitetaan seinälle. Kategoriat ovat positiivisia (glad), negatiivisia (sad) tai raivostuttavia (mad). Viimeksi mainittu voi kattaa täysin tiimin vaikutusalueen ulkopuolella olevat asiatkin. Tiimi äänestää tärkeysjärjestyksen lappujen sisällöistä keskustelulle ja käy kaikki laput tai, kunnes aika on tullut täyteen.
