@@ -4,4 +4,4 @@ Tähän liittyy vahvasti ohjelmistotuotantomenetelmä nimeltä Scrum, joka kysee
 
 Kanban-tuotantomenetelmä periytyy Toyotan autotehtailla kehitettyyn menetelmään, jossa yritetään mukautuvasti ratkaisemaan yksittäinen ongelma prosessin noudattamisen sijaan. Kanbanissa visualisoidaan työn kulkua taululla olevien kanbaniksi kutsuttujen korttien avulla. Kortit liikkuvat taululla riippuen siitä missä työvaiheessa ne ovat.
 
-Scrumban yhdistää Scrumin ja Kanbanin: molemmissa on päivittäisiä tapaamisia, ne yrittävät vähentää turhaa työtä, reagoivat nopeasti muutoksiin ja Lean-metodin mukaisesti pyrkivät Just-In-Time -valmistumiseen. Joitain eroja myös menetelmien välillä löytyy.
+Scrumban yhdistää Scrumin ja Kanbanin: molemmissa on päivittäisiä tapaamisia, ne yrittävät vähentää turhaa työtä, reagoivat nopeasti muutoksiin ja Lean-metodin mukaisesti pyrkivät Just-In-Time -valmistumiseen. Molemmille on olennaista Kaizen-periaatteen mukainen jatkuvan kehityksen periaate. Myös vähäisiä eroja löytyy menetelmien välillä. Scrumbanin erikoisuuksia on muun muassa eri aikavälin suunnittelun hahmottaminen.
